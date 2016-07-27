@@ -5,6 +5,17 @@
 html,body{
 	height:100%;
 }
+#lol{
+	/*margin-bottom: 200px;*/
+	font-family:'Source Sans Pro',Arial,sans-serif;
+	color: #89949C !important;
+
+}
+#ko{
+height: 1000px;
+border: solid;
+
+}
 
 body{
 	font-family:'Source Sans Pro',Arial,sans-serif;
